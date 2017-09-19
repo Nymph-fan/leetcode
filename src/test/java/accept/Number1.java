@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
    Because nums[0] + nums[1] = 2 + 7 = 9,
    return [0, 1].
  */
-public class TwoSum {
+public class Number1 {
 
     public int[] twoSum(int[] nums, int target) {
         int n=nums.length;

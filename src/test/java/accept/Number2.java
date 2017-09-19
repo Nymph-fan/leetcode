@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
  * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
    Output: 7 -> 0 -> 8
  */
-public class AddTwoNumbers {
+public class Number2 {
 
     class ListNode{
         int val;
