@@ -1,4 +1,4 @@
-package accept;
+package accept.array;
 
 import org.testng.annotations.Test;
 
